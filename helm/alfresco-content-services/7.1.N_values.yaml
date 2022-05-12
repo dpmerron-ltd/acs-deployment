@@ -2,7 +2,7 @@
 
 repository:
   image:
-    tag: 7.1.1.2
+    tag: 23.1.0-M1
 
 transformrouter:
   image:
@@ -38,7 +38,7 @@ filestore:
 
 share:
   image:
-    tag: 7.1.1.2
+    tag: 23.1.0-M1
 
 alfresco-search:
   searchServicesImage:
@@ -47,7 +47,7 @@ alfresco-search:
 alfresco-sync-service:
   syncservice:
     image:
-      tag: 3.5.0
+      tag: 3.7.0
 
 global:
   tracking:
